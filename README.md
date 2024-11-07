@@ -4,6 +4,8 @@ This project demonstrates the integration of **LangChain** with the **LLAMA mode
 
 The app is built using **Streamlit** for the user interface and integrates the **LangChain framework** for processing and interacting with the LLAMA model to generate relevant code snippets.
 
+<img=![image](https://github.com/user-attachments/assets/4ba54ca0-cbbc-485e-b5eb-78ed2a66c139)>
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Requirements](#requirements)
@@ -13,6 +15,7 @@ The app is built using **Streamlit** for the user interface and integrates the *
 - [License](#license)
 
 ## Project Overview
+
 
 This project leverages:
 - **LangChain**: A framework to create applications powered by large language models (LLMs).
